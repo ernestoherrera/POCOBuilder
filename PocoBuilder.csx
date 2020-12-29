@@ -6,7 +6,7 @@
 #r "Microsoft.SqlServer.Management.Sdk.Sfc"
 #r "System.Data.Entity.Design"
 #r "System.Globalization"
-#r "C:\Source\FluentSql\FluentSql\FluentSql\packages\Dapper.1.42\lib\net45\Dapper.dll"
+#r "C:\Source\FluentSql\packages\Dapper.1.42\lib\net45\Dapper.dll"
 
 using System;
 using System.IO;
